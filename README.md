@@ -1,10 +1,11 @@
-**Name**: Divyanshu Mishra  
-**Student ID**: 1281413  
-**Assignment**: Assignment 2 - Machine Learning Applications for Health (COMP90089_2024_SM2)  
+**Assignment 2 - Machine Learning Applications for Health (COMP90089_2024_SM2)**
 
 ---
 
 ## Profound Hypotension Analysis - ICU Patients
+
+### Author: Divyanshu Mishra  
+### Student ID: 1281413
 
 ## Assignment Details:
 This repository contains the code, datasets, and outputs for the "Profound Hypotension Analysis - ICU Patients" assignment. The primary objective of this project is to analyze clinical data of ICU patients experiencing profound hypotension and derive insights regarding patient outcomes, demographics, and associated comorbidities.
@@ -18,13 +19,19 @@ Profound hypotension is a critical condition for patients in the ICU. In this pr
 
 Understanding these patterns can help improve patient management, develop tailored intervention strategies, and potentially enhance patient outcomes.
 
+## Resources Used:
+- [Pandas](https://pandas.pydata.org/) for data manipulation and analysis.
+- [NumPy](https://numpy.org/) for numerical computations.
+- [Scikit-Learn](https://scikit-learn.org/stable/) for implementing machine learning algorithms, specifically K-Means clustering.
+- [Seaborn](https://seaborn.pydata.org/) and [Matplotlib](https://matplotlib.org/) for data visualization.
+- [Lifelines](https://lifelines.readthedocs.io/en/latest/) for survival analysis.
+
 ## Setting Up the Environment:
 To ensure the smooth execution of the code, please follow the steps below:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-link>
-   cd assignments
+   git clone https://github.com/divyanshu8888/ML_Health
    ```
 
 2. **Install Dependencies:**
