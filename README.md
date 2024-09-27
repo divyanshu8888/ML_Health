@@ -8,7 +8,17 @@
 ### Student ID: 1281413
 
 ## Assignment Details:
-This repository contains the code, datasets, and outputs for the "Profound Hypotension Analysis - ICU Patients" assignment. The primary objective of this project is to analyze clinical data of ICU patients experiencing profound hypotension and derive insights regarding patient outcomes, demographics, and associated comorbidities.
+This repository contains the code, datasets, and outputs for the "Profound Hypotension Analysis - ICU Patients" assignment. The main goal of this project is to analyze data from ICU patients with profound hypotension and understand their outcomes, demographics, and related health issues.
+
+In this assignment, I focused on:
+
+- Doing a thorough exploratory data analysis (EDA) to look at patient characteristics like age, gender, length of stay, comorbidity index, and APSIII scores.
+- Using **K-Means clustering** to group patients based on their clinical profiles.
+- Finding the best number of clusters using the **elbow method** to make sure the analysis is meaningful.
+- Creating visualizations to show differences in patient characteristics across clusters and how these relate to patient outcomes.
+- Drawing insights that can help healthcare providers manage patients with profound hypotension better.
+
+These findings can lead to improved care and treatment strategies for critically ill patients.
 
 ## Problem Description:
 Profound hypotension is a critical condition for patients in the ICU. In this project, I aim to:
